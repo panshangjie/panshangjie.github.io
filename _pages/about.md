@@ -9,4 +9,4 @@ redirect_from:
 ---
 
 
-I am a doctoral student at [Institute of Computing Technology, Chinese Academy of Sciences] (https://www.ict.ac.cn/). My research interests include computer architecture, hardware security, and trusted execution environments.
+I am a doctoral student at [Institute of Computing Technology, Chinese Academy of Sciences] (https://ict.ac.cn/). My research interests include computer architecture, hardware security, and trusted execution environments.

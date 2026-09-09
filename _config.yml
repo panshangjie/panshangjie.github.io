@@ -27,16 +27,16 @@ future: true
 # =========================================================
 
 author:
-  name: "Shangjie Pan"
+  name: "Shangjie Pan（潘尚杰）"
   avatar: "tupian.png"
 
-  bio: "Associate Professor"
+  bio: "Specially Appointed Associate Professor"
 
   location: "Hefei, Anhui, China"
 
   employer: "Hefei University of Technology"
 
-  email:
+  email: panshangjie@hfut.edu.cn
 
   googlescholar:
   github:

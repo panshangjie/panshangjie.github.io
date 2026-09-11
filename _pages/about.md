@@ -11,7 +11,6 @@ redirect_from:
 # Shangjie Pan
 
 Shangjie Pan is currently a Specially Appointed Associate Professor with the Innovation School of Integrated Circuits, Hefei University of Technology.
-
 He received his Ph.D. degree from the Institute of Computing Technology, Chinese Academy of Sciences. He has received honors including the Special First-Class Scholarship of Zhongguancun Laboratory and Anhui Province Outstanding Graduate.
 
 His research interests include Trusted Execution Environments, RISC-V Security, and Hardware Security. His research has been published in international conferences and journals, including DAC, ICCD, ASP-DAC, and IEEE TCAD.
